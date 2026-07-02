@@ -28,3 +28,4 @@ Connect with me 🤍
 - LinkedIn: Sofi Addoh
   
 
+Thank you for visiting my profile✨
