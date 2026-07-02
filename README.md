@@ -1,16 +1,30 @@
-## Hi there 👋
+## hi, i'm Sofi
 
-<!--
-**sofifarenaddoh/sofifarenaddoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Criminology and Social Psychology student specialising in Applied Data Science, with a growing passion for software development, technology and creative problem-solving.
 
-Here are some ideas to get you started:
+I'm currently developing my programming skils and building practical projects that allow ne to apply what i learn. I enjoy challenging myself, exploring new ideas and turning concepts into digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+what i'm learning🌷
+- Python
+- SQL
+- JavaScript
+- Data analysis
+- Software development fundamentals
+
+current projects💻
+- Student Budget Tracker
+- Revision and Deadline Planner
+- Personal Portfolio Website
+
+a little about me🪷
+I’m ambitious, curious and committed to continuous learning. My background in criminology, social psychology and applied data science has helped me develop strong analytical, research and problem-solving skills.
+I’m excited to continue growing in technology, building meaningful projects and connecting with others in the industry.
+
+my current focus🌱
+
+current_goal = "Build my confidence in Python and complete my first software project"
+
+Connect with me 🤍
+- LinkedIn: Sofi Addoh
+  
+
